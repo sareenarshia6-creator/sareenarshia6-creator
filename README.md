@@ -17,7 +17,7 @@ Email Me 👉 ✉️ **sareenarshia6@gmail.com** For Collaboration/Project or An
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arshia_sareen19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arshia-sareen-17a72922b) 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/sareenarshia6-creator/sareenarshia6-creator/blob/output/github-snake-dark.svg)
 
 
 # 💻 Tech Stack:
